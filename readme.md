@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=O0UgY-DmFbU
 
 https://www.youtube.com/watch?v=UNMRdi0j6HY
 
+https://www.youtube.com/watch?v=SzA2YODtgK4
+
 emacs
 https://www.youtube.com/watch?v=gfZDwYeBlO4
 
