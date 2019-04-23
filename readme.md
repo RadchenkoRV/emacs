@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=NwnYHoNtfJ0&list=PL-p5XmQHB_JSQvW8_mhBdcwEyxdVX0
 
 
 https://cestlaz.github.io/stories/emacs/
+
+
+https://www.youtube.com/watch?v=O0UgY-DmFbU
