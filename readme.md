@@ -13,6 +13,9 @@ https://cestlaz.github.io/stories/emacs/
 
 https://www.youtube.com/watch?v=O0UgY-DmFbU
 
+emacs
+https://www.youtube.com/watch?v=gfZDwYeBlO4
+
 
 clojure
 https://clojurecourse.by/
