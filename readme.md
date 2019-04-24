@@ -32,3 +32,14 @@ https://www.youtube.com/watch?v=gfZDwYeBlO4
 
 clojure
 https://clojurecourse.by/
+
+common lisp
+
+https://github.com/filonenko-mikhail/ub-lisp
+
+
+https://eax.me/common-lisp/
+
+https://learnxinyminutes.com/docs/common-lisp/
+
+
